@@ -24,7 +24,7 @@ Xander Schauffele,
 Jordan Spieth,
 Patrick Cantlay,
 Harold Varner III,
-Tommy Fleetwood,
+Tommy Fleetwood
 
 **Actual 2022 Masters top 20**
 Scottie Scheffler,
