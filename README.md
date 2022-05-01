@@ -5,52 +5,52 @@ We also ran a back test on the 2022 masters tournament using the same process. A
 
 
 **Our models projected Masters 2022 top 20:**
-Russell Henley
-Justin Thomas
-Taylor Gooch
-Will Zalatoris
-Daniel Berger
-Joaquin Niemann
-Luke List
-Cameron Smith
-Matt Fitzpatrick
-Hideki Matsuyama
-Sam Burns
-Tome Hoge
-Scottie Scheffler
-Sungjae Im
-Shane Lowry
-Xander Schauffele
-Jordan Spieth
-Patrick Cantlay
-Harold Varner III
-Tommy Fleetwood
+Russell Henley,
+Justin Thomas,
+Taylor Gooch,
+Will Zalatoris,
+Daniel Berger,
+Joaquin Niemann,
+Luke List,
+Cameron Smith,
+Matt Fitzpatrick,
+Hideki Matsuyama,
+Sam Burns,
+Tome Hoge,
+Scottie Scheffler,
+Sungjae Im,
+Shane Lowry,
+Xander Schauffele,
+Jordan Spieth,
+Patrick Cantlay,
+Harold Varner III,
+Tommy Fleetwood,
 
 **Actual 2022 Masters top 20**
-Scottie Scheffler
-Rory Mcilroy
-Shane Lowry
-Cameron Smith
-Colin Morikawa
-Will Zalatoris
-Corey Conners
-Justin Thomas
-Sungjae Im
-Cameron Champ
-Charles Schwartzel
-Dustin Johnson
-Danny Willet
-Kevin Na
-Matthew Fitzpatrick
-M.W. Lee
-Harry Higgs
-Lee Westwood
-Taylor Gooch
-Hideki Matsuyama
-Tommy Fleetwood
-Jason Kokrak
+Scottie Scheffler,
+Rory Mcilroy,
+Shane Lowry,
+Cameron Smith,
+Colin Morikawa,
+Will Zalatoris,
+Corey Conners,
+Justin Thomas,
+Sungjae Im,
+Cameron Champ,
+Charles Schwartzel,
+Dustin Johnson,
+Danny Willet,
+Kevin Na,
+Matthew Fitzpatrick,
+M.W. Lee,
+Harry Higgs,
+Lee Westwood,
+Taylor Gooch,
+Hideki Matsuyama,
+Tommy Fleetwood,
+Jason Kokrak,
 *22 names to include ties
 
-**Correct 2022 Masters Top 20 Predictions**
-**10/22**
+**Correct 2022 Masters Top 20 Predictions**,
+**10/22**,
 **45% predictive accuracy**
