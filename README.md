@@ -6,10 +6,10 @@ Our final project uses Pandas and Jupyter Notebook to analyze past data and pred
 **How to interpret our code**
 1) Start by viewing "Strokes Gained 2021" and "Strokes Gained 2022." These files weight and min/max scale (between 0-1) all 4 of the major statistics we used for every player on the PGA tour in 2021 and 2022.
 2) Then view "Finding Most Informative Course Statistics"(Wells Fargo) or "Masters 21 finding most informative statistic"(Masters) depending on which tournment you are looking for. These files use the previous tournament at the specific course for the file you select to find the statistics that most contribute to success at that course. 
-3) Then view "Accessing Course Fit and Projecting Success based on 2021 informative statistics and 2021 play" or "Projecting 2022 Masters Leaderboard" in order to see who we predict will win each tournament. We do this by computing a weighted average for each player. This is done by using the 4 statistics for the player in the current year as well as last years significance of each statistic at that course. 
+3) Then view "Accessing Course Fit and Projecting Success based on 2021 informative statistics and 2021 play" or "Projecting 2022 Masters Leaderboard" to see who we predict will win each tournament. We do this by computing a weighted average for each player. This is done by using the 4 statistics for the player in the current year as well as last years significance of each statistic at that course. 
 
 **Back testing**
-We also ran a back test on the 2022 Masters tournament using the same process. Are results show significant predictive accuracy even while not accounting for course history for specific players. Thus, we have confidence that are model is a strong predictor for the Wells Fargo Championship on May 5th.
+We also ran a back test on the 2022 Masters tournament using the same process. Our results show significant predictive accuracy even while not accounting for course history for specific players. Thus, we have confidence that our model is a strong predictor for the Wells Fargo Championship on May 5th.
 
 
 **Our models projected Masters 2022 top 20:**
